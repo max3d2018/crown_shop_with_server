@@ -1,0 +1,3 @@
+[submodule "cloth_shop"]
+	path = cloth_shop
+	url = https://github.com/max3d2018/cloth_shop.git
